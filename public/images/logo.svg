@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Crunch’s logo">
+  <circle cx="100" cy="100" r="96" fill="#A0653A"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#FBF3DA" stroke-opacity="0.65" stroke-width="2"/>
+  <path d="M138 72 A44 44 0 1 0 138 128" fill="none" stroke="#FBF3DA" stroke-width="18" stroke-linecap="round"/>
+  <g fill="#F3D98B">
+    <rect x="128" y="88" width="11" height="11" rx="2.5" transform="rotate(20 133 93)"/>
+    <rect x="144" y="97" width="9" height="9" rx="2" transform="rotate(-15 148 101)"/>
+    <rect x="130" y="108" width="8" height="8" rx="2" transform="rotate(35 134 112)"/>
+  </g>
+</svg>
